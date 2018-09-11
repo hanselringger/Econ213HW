@@ -3,6 +3,6 @@
 
 # In[ ]:
 
+import pandas as pd
 
-#here is a practice file
 
